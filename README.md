@@ -37,9 +37,7 @@ Your appreciation makes us grow and glow up. ⭐
 - [ ] Switch
 - [ ] Classes
 - [ ] File handling
-- [ ] C++ Graphics
-- [ ] Function overriding and overloading
-- [ ] Composition
+
 
 # Limitations:
 
